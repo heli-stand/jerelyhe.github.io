@@ -20,4 +20,4 @@ ICML 2023, Honolulu, Hawaii, USA
 
 
 ## More
-- [Blog](\blog)
+- [Blog](blog)
