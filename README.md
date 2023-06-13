@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 # **Li He**
 I am currently a Research Assistant in [Machine Intelligence Lab](https://milab.westlake.edu.cn/) led by [Prof. Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html) at Westlake University.
 
