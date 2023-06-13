@@ -4,9 +4,9 @@ I am a graduate of the University of Melbourne, where I received both my Bachelo
 My main research interest is in Machine Learning and Reinforcement Learning.
 
 ## Personal Timeline
--Research Assistant @ Westlake University								2022 – Present	 
--MS student @ University of Melbourne									2019 – 2021	 
--Undergrad student @ University of Melbourne							2016 – 2018
+- Research Assistant @ Westlake University								2022 – Present	 
+- MS student @ University of Melbourne									2019 – 2021	 
+- Undergrad student @ University of Melbourne							2016 – 2018
 
 ## Publications
 
