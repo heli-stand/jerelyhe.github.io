@@ -11,10 +11,10 @@ Prior to that, I graduated from the University of Melbourne, where I received bo
 My main research interest is in Machine Learning and Reinforcement Learning.
 
 ## Personal Timeline
-- PhD Candidate, University of Sydney, 2024 - Present
+- PhD Candidate, The University of Sydney, 2024 - Present
 - Research Assistant, Westlake University, 2022 - 2023									 
-- MS student, University of Melbourne, 2019 - 2021	 
-- Undergrad student, University of Melbourne, 2016 - 2018
+- MS student, The University of Melbourne, 2019 - 2021	 
+- Undergrad student, The University of Melbourne, 2016 - 2018
 
 ## Publications
 
